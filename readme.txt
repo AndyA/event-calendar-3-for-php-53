@@ -1,19 +1,19 @@
 ﻿=== Event Calendar 3 for PHP 5.3 ===
-Tags: calendar, event, events, vcalendar, icalendar, ical, ajax, widget, sidebar
-Stable tag: 3.1.5
 Contributors: Alex Tingle (PHP 5.3 update by Stig Ulfsby)
 Donate link: http://www.amazon.co.uk/gp/registry/1S44DP6XXOFIN
+Tags: calendar, event, events, vcalendar, icalendar, ical, ajax, widget, sidebar
+Stable tag: 3.1.5
 Requires at least: 1.5
 Tested up to: 3.0.4
+License: GPL
 
 Manage future events as an online calendar. Display upcoming events in a dynamic
-calendar, on a listings page, or as a list in the sidebar.
-
+calendar widget or list widget.
 
 == Description ==
 
 Manage future events as an online calendar. Display upcoming events in a dynamic
-calendar, on a listings page, or as a list in the sidebar. You can subscribe to
+calendar widget or list widget, or as posts on an event category page. You can subscribe to
 the calendar from iCal (OSX) or Sunbird.
 
 Choose one WordPress category as the 'event' category, and then add posts for
@@ -22,6 +22,16 @@ or just use the 'Event Category' page to list your forthcoming events.
 
 This is an update of Event Calendar 3 to work with PHP 5.3. 
 EventCalendar works fine with WordPress v3.0.
+
+= Features =
+
+* Events are ordinary posts or separate posts not shown on the blog page. 
+* Each event can have multiple dates
+* The dates can be shown in a box on the post
+* Widget showing calender with events marked.
+* Widget listing future events
+* Event posts are assigned an event category and can be listed on a category page
+ 
 
  [Full Documentation](http://wpcal.firetree.net)
 
@@ -143,7 +153,7 @@ post edit screen that allows you to set the event date.
      hu_HU  Hungarian           (by Elbandi)
      it_IT  Italian             (by Jimmi)
      mk_MK  Macedonian          (by Vanco Ordanoski)
-     nb_NO  Norwegian           (by Realf Ording Helgesen)
+     nb_NO  Norwegian           (by Realf Ording Helgesen & Stig Ulfsby)
      nl_NL  Dutch               (by Gerjan Boer & P. Mathijssen)
      pt_BR  Portuguese (Brazil) (by DJ Spark)
      ro_RO  Romanian            (by Sushkov Stanislav)
@@ -168,14 +178,20 @@ post edit screen that allows you to set the event date.
 4. Event Calendar options page.
 
 
-== Planned features ==
+== Changelog ==
 
-Some enhancements haven't made it into this release, but they are planned for
-the future. Look in the file TODO.txt for details.
+= 3.1.5 (2011-02-05) =
+* Updated to work with PHP 5.3
+* Updated norwegian language
 
+= 3.1.4 (2008-11-08) =
+This is the last version of Event Calendar 3 by Alex Tingle.
 
-== Note: ==
+== Upgrade Notice ==
+If you are using PHP 5.3 or higher, the old Event Calendar 3 will corrupt your site. Event Calendar 3 for PHP 5.3 works. Since Alex Tingle no longer developes Event Calendar 3, I had to make a new name of the plugin.
 
-Copyright (c) 2005-2011  Alex Tingle and others.
-License: GPL
+== Note ==
+
+Copyright (c) 2005-2008  Alex Tingle and others.
+The plugin can be used and distributed under the GPL licence.
 Some of this code was developed with the financial support of Stephen Hinton.

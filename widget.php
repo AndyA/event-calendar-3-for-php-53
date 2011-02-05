@@ -2,8 +2,8 @@
 /*
 Plugin Name: Event Calendar 3 for PHP 5.3 Widget
 Plugin URI: http://wpcal.firetree.net/
-Description: Adds sidebar widgets for Event Calendar and Upcoming Events. Requires the EventCalendar and <a href="http://automattic.com/code/widgets/">Widget</a> plugins (WordPress version 2.1 and earlier). After activating, please visit <a href="themes.php?page=widgets/widgets.php">Sidebar Widgets for WordPress version 2.1 and earlier</a> or <a href="widgets.php">Widgets for WordPress version 2.2 and subsequent</a> to configure and arrange your new widgets.
-Version: 3.1.4
+Description: Adds two sidebar widgets for Event Calendar and Upcoming Events. Requires the Event Calendar 3 for PHP 5.3. Go to the widget menu and drag the widgets to a sidebar.
+Version: 3.1.5
 Author: Darrell Schulte
 Author URI: http://wpcal.firetree.net/
 */

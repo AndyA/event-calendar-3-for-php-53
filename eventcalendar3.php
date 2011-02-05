@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Event Calendar 3 for PHP 5.3
-Plugin URI: http://wpcal.firetree.net/
+Plugin URI: http://wordpress.org/extend/plugins/event-calendar-3-for-php-53/
 Description: Manage future events as an online calendar. Display upcoming events in a dynamic calendar, on a listings page, or as a list in the sidebar. You can subscribe to the calendar from iCal (OSX) or Sunbird. Change settings on the <a href="options-general.php?page=ec3_admin">Event Calendar Options</a> screen.
 Version: 3.1.5
-Author: Alex Tingle
+Author: Alex Tingle (PHP 5.3 version by Stig Ulfsby)
 Author URI: http://blog.firetree.net/
 Licence: GPL2
 */
